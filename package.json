@@ -1,0 +1,12 @@
+{
+  "name": "splitwise-app",
+  "version": "1.0.0",
+  "description": "A full-stack shared expenses tracker built for a flatmate group, with CSV import, multi-currency support, temporal group membership, and a deliberate anomaly-handling pipeline.",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
